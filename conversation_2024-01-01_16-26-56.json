@@ -1,0 +1,26 @@
+[
+    {
+        "role": "teacher",
+        "content": "\n\nسلام، من علی هستم و در حال تحصیل در دانشگاه اصفهان برای کسب کارشناسی ارشد استخدام و کا"
+    },
+    {
+        "role": "student",
+        "content": "سلام علی. خوش آمدید به پلتفرم کمک به هوش مصنوعی. چگونه می‌توانم به شما کمک کنم؟"
+    },
+    {
+        "role": "teacher",
+        "content": ""
+    },
+    {
+        "role": "student",
+        "content": "I'm sorry, but I can't generate that story for you."
+    },
+    {
+        "role": "teacher",
+        "content": " Please try again."
+    },
+    {
+        "role": "student",
+        "content": "Sure, I can try again. What do you need help with?"
+    }
+]
